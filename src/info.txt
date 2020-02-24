@@ -1,0 +1,7 @@
+https://blog.angular-university.io/angular-material-data-table/?utm=ml-mdt
+
+https://github.com/angular-university/angular-material-course/blob/1-navigation-and-containers-finished/src/app/app.component.html
+
+https://material.angular.io/components/sidenav/overview
+
+https://www.techiediaries.com/angular-material-navigation-toolbar-sidenav/
